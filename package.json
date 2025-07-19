@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "name": "line-webbot",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@evex/linejs": "^0.7.6",
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2"
+  }
+}
